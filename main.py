@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 
 """
-Created on Sat Oct 10 19:39:22 2020
-
 @author: kunal
 """
 
